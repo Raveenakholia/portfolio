@@ -1,3 +1,3 @@
 # portfolio
 
-# Senior Software Enginner at Globallogic Hitachi Company
+# Senior Software Engineer at Globallogic Hitachi Company
